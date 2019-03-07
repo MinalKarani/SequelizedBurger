@@ -9,6 +9,6 @@ App stores every burger in a MySQL database using Sequelize, whether devoured or
 
 The app uses npm packages express, express-handlebars, mysql, and orm.
 
-Live App Link : https://gentle-tundra-73353.herokuapp.com/
+Live App Link : https://afternoon-dawn-39220.herokuapp.com/
 
 ![Screenshot](screenshot.gif)
